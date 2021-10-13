@@ -14,7 +14,7 @@ public class Mascota {
     private String id;
     private String apodo;
     private String raza;
-  
+    private String colorgit;  //Agregue atributo solo para el ejemplo github
 
     public Mascota() {
     }
